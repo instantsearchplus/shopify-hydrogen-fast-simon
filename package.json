@@ -34,6 +34,7 @@
   },
   "prettier": "@shopify/prettier-config",
   "dependencies": {
+    "@fast-simon/hydrogen-autocomplete": "^1.0.6",
     "@headlessui/react": "^1.6.4",
     "@heroicons/react": "^1.0.6",
     "@shopify/hydrogen": "^1.1.0",
